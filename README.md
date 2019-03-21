@@ -3,10 +3,10 @@
 2.进入到app->res->layout目录下，打开activity_main.xml文件（如下图)  
 ![directer](https://github.com/ishy6/HelloWorld/blob/master/app/src/image/direct.PNG)  
 3.我们修改该文件下的**android:textSize** 和 **android:text** 属性（如下图所示)  
-![Activ]{https://github.com/ishy6/HelloWorld/blob/master/app/src/image/activity_main.PNG}  
+![Activ](https://github.com/ishy6/HelloWorld/blob/master/app/src/image/activity_main.PNG)  
 4.以下是效果图  
 ![Screen](https://github.com/ishy6/HelloWorld/blob/ec7fa3a16db2c3e1a51f88610c66066cb163a507/screen.PNG)  
 5.我们在java->MainActivity加入测试生命周期代码  
-![]{}  
+![p1](https://github.com/ishy6/HelloWorld/blob/master/app/src/image/%E6%8D%95%E8%8E%B7.PNG)  
 6.打印出的log如图所示  
 ![log](https://github.com/ishy6/HelloWorld/blob/ec7fa3a16db2c3e1a51f88610c66066cb163a507/Activity.PNG)
